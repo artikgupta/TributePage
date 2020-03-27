@@ -25,6 +25,12 @@ body {
 
 #img_div{
     background: white;
+ max-width:1200px;
+margin:auto;
+}
+
+img{
+width:100%;
 }
 
 #img-caption{
